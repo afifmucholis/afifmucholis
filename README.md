@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @afifmucholis
+- 🌱 I’m currently learning React, NodeJS, Python, Go . . .
